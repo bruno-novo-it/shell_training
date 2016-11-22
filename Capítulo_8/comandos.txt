@@ -1,0 +1,10 @@
+#Lista de comandos utilizados
+
+Entrada: fgrep -i '>Google</a>' pagina[23].html | tr A-Z a-z | tr -d \" | sed 's/.*href=// ; s/>.*//'
+
+Saída: www.google.com.br
+       www.google.com.br
+
+Entrada: tr '\n' ' ' < pagina4.html | awk 'gsub("<[^/]", "\n&")' | fgrep -i '>Google</a>' | tr A-Z a-z | tr -d \" | sed 's/.*href=// ; s/>.*//'
+
+Saída: www.google.com.br

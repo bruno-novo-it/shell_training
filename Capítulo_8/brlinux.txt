@@ -1,0 +1,423 @@
+   #publisher BR-Linux.org RSS Feed
+
+Visite também: UnderLinux ·  Dicas-L ·  SoftwareLivre.org ·  [mais] ·
+                      Currículo ·  Efetividade ·  makerNews ·  Arduino
+
+O que é Linux • Download Linux • Apostila Linux • Enviar notícia
+
+BR-Linux.org
+
+   Linux levado a sério desde 1996
+     __________________________________________________________________
+
+Relatório da O'Reilly: Open Source no Brasil - crescendo apesar das barreiras
+
+   Tags:
+
+   [ora-52715.png]
+
+     Via www.oreilly.com:
+
+     Nesse relatório, seu autor, Andy Oram, explora as várias tendências
+     nos negócios, no ensino e nas políticas públicas que contribuíram
+     para o estado atual da atividade open source no Brasil. Você vai
+     descobrir a comunidade open source no país, seus movimentos de
+     software livre, o envolvimento dos negócios e da força de trabalho,
+     e as questões relativas à educação.
+
+     Aprenda como:
+
+     Desenvolvedores criaram meetups e outros espaços de colaboração e
+     treinamento, tanto nas grandes como nas pequenas cidades;
+
+     O apoio do governo, em especial durante os anos 2000, ajudou a
+     educar o público sobre o open source;
+
+     O open source está por toda parte nos negócios, com o crescimento
+     atribuído às startups e ao seu uso na computação em nuvem;
+
+     O treinamento em open source é difícil de encontrar, forçando alunos
+     e programadores a buscar formas não institucionais de
+     adquirirhabilidades importantes;
+
+     * Os defensores brasileiros do open source estão encontrando
+     maneiras simples de promover software open source, para não precisar
+     contar com a apoio governamental.
+
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+Datamation: Por que as corporações do Linux estão dando boas vindas à
+Microsoft?
+
+   Tags:
+
+   A aparência de vitória pode muito bem ser uma ilusão, adverte o
+   Datamation. Levar características de produtos livres (como o shell
+   Bash) para o mundo Windows torna esse mundo mais atrativo, e a aparente
+   mudança de lado da MS pode ter efeitos muito mais complexos do que uma
+   primeira análise indica.
+
+   O Datamation perguntou por que as corporações do Linux – como a
+   Canonical, entre outras – estão dando boas vindas à Microsoft, e ele
+   mesmo responde com uma hipótese: porque estão seduzidas pela
+   possibilidade de a associação da sua imagem à da MS aumentar sua
+   respeitabilidade no mercado.
+
+   Mas o artigo também explora outras possibilidades, como a de acharem
+   que isso é uma alternativa melhor do que continuar a receber propostas
+   de pactos de patentes como os que a MS ofereceu por anos às empresas
+   que comercializam aparelhos com Android.
+
+   (via www.datamation.com - “Why Is Corporate Linux Welcoming Microsoft?
+   - Datamation”)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+Windows Subsystem for Linux: Engenheiro da equipe do WSL mostra como funciona
+a conexão com a internet
+
+   Tags:
+
+   Na séria de vídeos relacionados ao WSL, chegou a hora de falar da
+   conexão com a internet no Windows Subsystem for Linux. Assista o vídeo
+   no Channel 9 feito por Seth Juarez e Sunil Muthuswamy a baixo.
+
+   IFRAME:
+   https://channel9.msdn.com/Blogs/Seth-Juarez/Windows-Subsystem-for-Linux
+   -Networking-Overview/player
+
+   Referência: channel9.msdn.com
+
+   Enviado por DarthTheme (carlos130Θoutlook·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+VI Semana de Infraestrutura da Internet no Brasil
+
+   Tags: evento
+
+   Em uma mesma semana, em um único local, importantes eventos que
+   discutirão temas diretamente ligados à infraestrutura da Internet no
+   Brasil. Programe-se e participe. 05 a 09 de Dezembro de 2016, Blue Tree
+   Premium Morumbi, São Paulo – SP, Brasil. Mais informações:
+   http://nic.br/semanainfrabr/
+   Referência: nic.br
+
+   Enviado por Driva Linux (drivalinuxΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+Locaweb divulga seu VPS
+
+   Tags:
+
+   Para preencher uma lacuna no mercado nacional, a Locaweb lança seu VPS
+   100% brasileiro. O novo serviço do portfólio Cloud da empresa garante
+   uma infraestrutura com SLA de 99,9% e conta com processadores Intel E5
+   V4 e tecnologia SSD de armazenamento de dados.
+
+   Para contornar o problema com o custo do serviço, considerado o maior
+   obstáculo no fornecimento de um VPS no Brasil, a Locaweb firmou
+   parceria com a Intel e a Dell, a fim de conseguir preços inferiores aos
+   praticados pelos concorrentes estrangeiros.
+
+   “Foi essencial entender o poder de escolha do cliente, assim como
+   quebrar a barreira do custo Brasil e manter altos padrões de qualidade,
+   mas foi um diferencial contar com infraestrutura nacional da Locaweb
+   para oferecer a baixa latência e alta segurança”, conta Cássio
+   Scozzafave, especialista de Cloud Computing da Locaweb.
+   Referência: press.locaweb.com.br
+
+   Enviado por Renato Silva (renatosilvaΘnbpress·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+Videoaula sobre PAM - Acesso ao sistema
+
+   Tags: curso
+
+   Mais uma videoaula gratuita para o Universidade Linux. Nesta aula,
+   vamos conhecer o PAM que sobrescreve configurações de acesso, seja
+   local ou remoto. Inclusive, podemos definir horário de acesso/dia na
+   semana para um determinado usuário.
+
+   Saiba mais:
+   http://universidadelinux.net.br/opendocument/2016/11/10/modulos-do-pam/
+   Referência: universidadelinux.net.br
+
+   Enviado por Juliano Ramos (profjulianoramosΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   11/11/2016
+
+Após protesto, Lenovo adiciona compatibilidade com o Linux ao Yoga 900
+
+   Tags:
+
+     Via idgnow.com.br:
+
+     O Lenovo fez barulho quando anunciou que seus laptops híbridos Yoga
+     900 e 900S funcionariam apenas com Windows, mas não com Linux.
+
+     Depois da polêmica, a empresa voltou atrás e agora vai levar o
+     suporte do Linux para esses computadores.
+
+     A fabricante liberou recentemente um update de BIOS para que o Linux
+     possa ser usado nos modelos Yoga 900, 900S e IdeaPad 710.
+
+     A atualização da BIOS adiciona um modo de controle AHCI (Advance
+     Host Controller Interface) SATA para que os usuários possam usar o
+     Linux nos laptops.
+
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   9/11/2016
+
+Top 10 hacks de SQL para machine learning
+
+   Tags: desenvolvedores, banco-de-dados
+
+   A manipulação de dados antes da aplicação de diversos algoritmos de
+   machine learning é muito comum. De fato, não é raro ouvir que
+   aproximadamente 70% ou mais do tempo gasto em projetos de data science
+   é apenas manipulando dados antes de efetivamente aplicar algum
+   algoritmo de machine learning. Como a linguagem SQL é o recurso
+   computacional mais utilizado para lidar com dados, neste post vou
+   descrever algumas técnicas avançadas de SQL para lidar com dados antes
+   de partir para o Machine Learning.
+   Referência: pichiliani.com.br
+
+   Enviado por Mauro Pichiliani (pichilianiΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   9/11/2016
+
+Navegador Vivaldi - Como Instalar no openSUSE e Derivados
+
+   Tags: instalar, video
+
+   Desde que fora anunciado em 2015 o Vivaldi que tem ganhado muitos fãs e
+   promete ser um dos melhores browsers da atualidade.
+
+   Criado pelo ex-CEO e co-fundador da Opera Software Jon von Tetzchner
+   [que saiu da Opera em 2011], o browser tem várias características muito
+   interessantes aliadas a tecnologia de ponta.
+
+   IFRAME: https://www.youtube.com/embed/MBuxIe94vFQ?rel=0&showinfo=0
+
+   Referência: tavernalinux.com
+
+   Enviado por Diego Boot (diego·barbosaΘlinuxmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   9/11/2016
+
+Usando Docker para Pentest
+
+   Tags: instalar, containers
+
+   Docker é uma tecnologia que veio pra ficar e pra facilitar a vida de
+   todos e pra quem é da area de segurança da informação não é diferente,
+   ja que usando Docker podemos criar diversos ambientes para Pentest e
+   deixa-los portáveis, podendo utiliza-los na nuvem ou em qualquer
+   computador ou laptop, independente da distribuição. Só precisamos de
+   ter o Docker instalado para rodarmos nosso container e isso facilita e
+   muito.
+   Referência: coffee-it.com.br
+
+   Enviado por Coffee-IT (contatoΘcoffee-it·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   8/11/2016
+
+Vídeo: Uso básico do terminal - Terceiro Vìdeo
+
+   Tags: video
+
+   Neste vídeo conheça os comandos touch, cp, mv e rm, além do uso do
+   editor Nano.
+
+   IFRAME: https://www.youtube.com/embed/cYSn6TOQnTw?rel=0
+
+   Referência: youtube.com
+
+   Enviado por Marcello de Souza (marcellodesouzaΘgmail·com)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   8/11/2016
+
+Novatec Editora lança livro Introdução ao DNS
+
+   Tags: instalar, curso, livros, servidor
+
+   Título ensina a instalar e configurar uma infraestrutura de DNS na
+   prática
+
+   O DNS (Domain Name System) é um dos protocolos mais importantes
+   utilizados na internet e em redes locais, pois permite que o usuário
+   acesse os recursos disponibilizados na rede utilizando apenas o nome de
+   um computador, em vez do seu endereço IP.
+
+   O livro Introdução ao DNS, lançado pela Novatec Editora, tem como
+   objetivo proporcionar ao leitor um entendimento sobre os principais
+   conceitos envolvidos na infraestrutura DNS por meio da implementação
+   prática de servidores DNS usando GNU/Linux e Windows.
+   Referência: novatec.com.br
+
+   Enviado por Stephanie Milate (smilateΘnovatec·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   8/11/2016
+
+Hangout Online e Gratuito Escola Linux - Monitoramento Enterprise com Nagios
+nessa 6a feira as 20h (11/11/16)
+
+   Tags: patrocinador, evento
+
+   Participe do Hangout Online e Gratuito Escola Linux - Monitoramento
+   Enterprise com Nagios nessa 6a feira as 20h (11/11/16).
+
+   Inscreva-se no link:
+   https://app.webinarjam.net/register/31271/4fb4db35ef
+   Referência: app.webinarjam.net
+
+   Enviado por Paulo Oliveira (treinamentoΘlinuxsolutions·com·br)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   7/11/2016
+
+Conferência Potiguar de Software Livre
+
+   Tags: evento
+
+   Durante os dias 18 e 19 de Novembro em Natal, no Rio Grande do Norte,
+   ocorrerá a 1ª Conferência Potiguar de Software Livre. A conferência
+   será organizada pelo grupo de usuários de software livre da região, o
+   PotiLivre e contará com a participação de palestrantes e participantes
+   de vários estados do Nordeste.
+
+   O dia 18 será de minicursos enquanto que o dia 19 de palestras e
+   keynotes. A programação oficial do dia 19 já pode ser acessada clicando
+   aqui.
+
+   Faça sua inscrição já e venha participar conosco de mais uma atividade
+   do PotiLivre!
+   Referência: potilivre.org
+
+   Enviado por Marcel Ribeiro Dantas (mribeirodantasΘfedoraproject·org)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   7/11/2016
+
+NOVO CURSO INÉDITO de Zabbix API com PHP - c/ 50% de desconto (por tempo
+limitado)!
+
+   Tags: curso, desenvolvedores, certificacao, monitoramento
+
+   É com muito prazer e satisfação que venho informar em primeira mão aos
+   leitores do Br-Linux o lançamento do nosso mais novo curso: Zabbix API
+   com PHP.
+
+   Diferente dos demais cursos de Zabbix API, o nosso curso é focado 100%
+   em PHP sem a utilização de nenhum framework, ou seja, você irá dominar
+   a essência da API podendo migrar posteriormente para qualquer outra
+   linguagem de programação desejada.
+
+   E tem mais!
+
+   O curso conta com vários exemplos de utilização dos principais métodos
+   da API do Zabbix, além de funções úteis para você aplicar em seus
+   projetos pessoais, onde no final, desenvolverá uma aplicação web
+   completa utilizando somente a API.
+
+   Para comemorar este lançamento, o Curso de Zabbix API com PHP está com
+   um desconto de 50% por tempo LIMITADO!
+
+   Invista em você e se destaque no mercado com esse curso inédito da Byte
+   Livre.
+
+   Importante: Os nossos cursos são enviados por meio de vídeos em formato
+   offline! Isso quer dizer que você pode assistir os cursos em qualquer
+   lugar, sem a necessidade de estar conectado na internet!
+
+   O suporte é ilimitado e o certificado é emitido gratuitamente!
+
+   Conteúdo completo, valor e maiores informações acesse:
+   http://bytelivre.net/curso-zabbix-api-php/
+   Referência: bytelivre.net
+
+   Enviado por Marcos Vinicius Campez (marcosΘbytelivre·net)
+   Compartilhe: [Twitter] [Facebook] [Comentar]
+
+   7/11/2016
+   ← Mais antigos
+     * Comentários dos leitores
+     *
+     * Twitter e RSS
+       [twitter16-273183.jpg] @brlinuxblog
+       [twitter16-273183.jpg] @augustocc
+       [rss-icon-small.jpg] Feed RSS
+       Histórico 2002-2014
+       Google
+       Digite os termos da sua pesquisa _________________________
+       ( ) Web (*) br-linux.org
+       Enviar formulário de pesquisa Pesquisar no BR-Linux
+     * BR-Linux apoia:
+
+
+     * Licenciamento Saiba mais sobre o BR-Linux. O conteúdo textual
+       original desta página está disponível sob a licença GNU FDL 1.2.
+       Veja os Termos de Uso para saber os detalhes sobre licenciamento,
+       políticas com relação ao conteúdo enviado pelos leitores (incluindo
+       comentários), moderação pública, privacidade e aspectos legais.
+
+                          [gprofile_button-32.png]
+
+     *
+
+     *
+
+                             Anuncie no BR-Linux
+     *
+     __________________________________________________________________
+
+   BR-Linux.org
+          Linux® levado a sério desde 1996. Notícias, dicas e tutoriais em
+          bom português sobre Linux e Código Aberto. "A página sobre
+          software livre mais procurada no Brasil", segundo a Revista
+          Isto É.
+
+   Expediente
+          Sobre o BR-Linux
+          Enviar notícia ou release
+          Contato, Termos de uso
+          FAQ, RSS
+          Anunciar no BR-Linux
+
+   Visite também
+          VivaOLinux
+          sites da comunidade
+
+   Ajuda
+          Publicar seu texto
+          Notícias pré-2008
+          Notícias pré-2004
+          Tutoriais, HCL pré-2004
+
+   © Augusto Campos. Conteúdo disponível sob a licença livre FDL. Consulte
+   os termos de uso.
+
+   Powered by Axe. Linux (R) é marca registrada de Linus Torvalds. Os
+   direitos autorais de todas as ilustrações pertencem aos respectivos
+   autores, e elas são reproduzidas na intenção de atender ao disposto no
+   art. 46 da Lei 9.610 - se ainda assim alguma delas infringe direito
+   seu, entre em contato para que possamos removê-la imediatamente. O
+   conteúdo textual original desta página está disponível sob a licença
+   GNU FDL 1.2. Leia os Termos de Uso para saber mais detalhes - inclusive
+   sobre a política em relação aos comentários dos leitores.
